@@ -7,7 +7,7 @@ import streamlit as st
 df = pd.read_csv('dataframe-vendas.csv')
 
 st.set_page_config(
-    page_title='Análise de Vendas da Coleção Nuvens',
+    page_title='Análise de Vendas da Coleção Inverno',
     page_icon='',
     layout="wide"
 )

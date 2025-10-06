@@ -36,7 +36,7 @@ df_filtrado = df[
 ]
 
 #Conteudo Principal
-st.title("Dashboard de vendas da coleção núvens")
+st.title("Dashboard de vendas da coleção de inverno")
 st.markdown("Dashboard interativo para analisar as vendas dos produtos da coleção núvens de 2025")
 
 #Métricas principais

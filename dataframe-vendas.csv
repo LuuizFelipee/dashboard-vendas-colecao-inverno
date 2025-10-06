@@ -1,0 +1,255 @@
+data de compra,# pedido,# item pedido,produto,modelo,valor produto,tipo de pagamento,entregue,vendedor,valor total do pedido,compra sócio,nome,cpf,valor total da compra
+2025-06-27 16:24:44,CS624146,I1179087,Camisa,PP,108.0,Dinheiro,Sim,Laura Tobita Norimbeni,108.0,Sim,Bárbara Barros,591.734.682-82,Sim
+2025-06-27 17:50:58,CS624159,I1179106,Camisa,PP,180.0,Cartão de Crédito,Sim,Compra Online,120.0,Não,Danilo da Rosa,197.543.268-19,Não
+2025-06-30 15:37:50,CS624408,I1179488,Camisa,PP,108.0,Pix,Sim,Compra Online,171.0,Sim,Isis Castro,954.370.682-47,Sim
+2025-07-20 14:56:15,CS627686,I1185035,Camisa,PP,108.0,Pix,Sim,Compra Online,108.0,Sim,Lara Farias,284.750.619-58,Sim
+2025-07-23 18:12:12,CS628112,I1185773,Camisa,PP,108.0,Cartão de Crédito,Sim,Compra Online,360.0,Sim,Guilherme Duarte,081.925.467-30,Sim
+2025-07-23 23:01:09,CS628185,I1185894,Camisa,PP,108.0,Cartão de Crédito,Sim,Compra Online,171.0,Sim,Fernanda Ferreira,127.936.854-37,Sim
+2025-06-23 13:25:39,CS623754,I1178518,Camisa,P,180.0,Pix,Sim,Compra Online,185.0,Não,João Vitor Martins,247.310.658-44,Não
+2025-06-30 20:09:03,CS624433,I1179534,Camisa,P,108.0,Cartão de Crédito,Não,Compra Online,108.0,Sim,Theo Ferreira,348.091.752-60,Sim
+2025-07-16 19:58:06,CS627217,I1184374,Camisa,P,108.0,Cartão de Crédito,Sim,Compra Online,297.0,Sim,Carolina Pereira,740.231.568-17,Sim
+2025-07-23 16:04:37,CS628079,I1185723,Camisa,P,108.0,Cartão de Crédito,Sim,Compra Online,171.0,Sim,Pedro Henrique Teixeira,843.260.951-05,Sim
+2025-07-23 16:40:48,CS628091,I1185745,Camisa,P,108.0,Dinheiro,Sim,Laura Tobita Norimbeni,229.5,Sim,Sra. Laura Fogaça,976.815.403-93,Sim
+2025-07-23 21:00:55,CS628166,I1185859,Camisa,P,108.0,Dinheiro,Sim,Laura Tobita Norimbeni,229.5,Sim,Ana Sophia Souza,260.571.489-67,Sim
+2025-07-23 22:03:05,CS628177,I1185873,Camisa,P,108.0,Dinheiro,Sim,Giovana Gomes Costa,108.0,Sim,Raquel Silveira,276.058.149-76,Sim
+2025-06-23 15:27:25,CS623773,I1178545,Camisa,M,180.0,Dinheiro,Sim,Gabriely Fernanda Garbim,120.0,Não,Joana Silveira,284.395.617-09,Não
+2025-06-23 15:43:32,CS623775,I1178547,Camisa,M,108.0,Dinheiro,Sim,Laura Tobita Norimbeni,360.0,Sim,Felipe Correia,861.275.304-07,Sim
+2025-06-23 15:48:14,CS623777,I1178552,Camisa,M,180.0,Dinheiro,Sim,Gabriely Fernanda Garbim,330.0,Não,Lívia da Conceição,750.294.631-43,Não
+2025-06-23 22:15:37,CS623829,I1178622,Camisa,M,108.0,Dinheiro,Não,Laura Tobita Norimbeni,216.0,Sim,Eduardo Cardoso,984.156.307-00,Sim
+2025-06-23 22:15:37,CS623829,I1178623,Camisa,M,108.0,Dinheiro,Sim,Laura Tobita Norimbeni,216.0,Sim,Alexandre Cavalcanti,751.489.620-11,Sim
+2025-06-27 12:57:59,CS624127,I1179064,Camisa,M,180.0,Pix,Não,Compra Online,120.0,Não,Otávio Silva,753.862.049-47,Não
+2025-07-01 02:36:31,CS624475,I1179604,Camisa,M,108.0,Pix,Sim,Compra Online,108.0,Sim,Gabrielly Caldeira,352.809.416-89,Sim
+2025-07-03 13:53:54,CS624797,I1180073,Camisa,M,180.0,Pix,Sim,Compra Online,330.0,Não,Juliana Souza,579.280.361-77,Não
+2025-07-06 14:10:00,CS625216,I1181039,Camisa,M,180.0,Cartão de Crédito,Sim,Compra Online,120.0,Não,Lorenzo Martins,596.814.370-39,Não
+2025-07-10 14:15:14,CS625950,I1182411,Camisa,M,108.0,Dinheiro,Sim,Giovana Gomes Costa,108.0,Sim,Lorenzo Ferreira,027.186.439-78,Sim
+2025-07-13 22:16:31,CS626522,I1183325,Camisa,M,180.0,Pix,Sim,Compra Online,330.0,Não,Dr. Erick Martins,364.819.275-28,Não
+2025-07-14 10:13:50,CS626554,I1183377,Camisa,M,108.0,Cartão de Crédito,Sim,Compra Online,108.0,Sim,Gabriela Carvalho,138.574.269-00,Sim
+2025-07-21 00:03:18,CS627736,I1185112,Camisa,M,180.0,Cartão de Crédito,Sim,Compra Online,120.0,Não,João Vitor da Luz,389.564.120-06,Não
+2025-07-22 09:40:57,CS627884,I1185366,Camisa,M,180.0,Pix,Sim,Compra Online,120.0,Não,Maria Luiza Moreira,187.429.365-19,Não
+2025-07-22 14:56:53,CS627921,I1185430,Camisa,M,108.0,Dinheiro,Sim,Laura Tobita Norimbeni,216.0,Sim,Levi Cunha,186.729.453-28,Sim
+2025-07-22 15:29:58,CS627928,I1185446,Camisa,M,108.0,Cartão de Crédito,Sim,Compra Online,171.0,Sim,Gustavo Henrique Jesus,413.629.870-69,Sim
+2025-07-22 16:55:51,CS627942,I1185475,Camisa,M,180.0,Cartão de Crédito,Sim,Compra Online,120.0,Não,Nathan Gonçalves,795.482.603-10,Não
+2025-07-23 17:28:31,CS628101,I1185758,Camisa,M,108.0,Dinheiro,Sim,Laura Tobita Norimbeni,108.0,Sim,Alícia Moreira,032.589.716-68,Sim
+2025-07-23 18:49:54,CS628127,I1185796,Camisa,M,180.0,Cartão de Crédito,Sim,Compra Online,120.0,Não,João Miguel Silveira,601.983.245-70,Não
+2025-07-23 18:51:47,CS628129,I1185799,Camisa,M,108.0,Dinheiro,Sim,Laura Tobita Norimbeni,297.0,Sim,João Vitor Carvalho,892.174.603-03,Sim
+2025-07-23 20:18:48,CS628156,I1185841,Camisa,M,180.0,Cartão de Crédito,Sim,Compra Online,120.0,Não,Dra. Daniela Barros,362.095.418-60,Não
+2025-07-23 23:11:19,CS628189,I1185899,Camisa,M,180.0,Cartão de Crédito,Não,Compra Online,120.0,Não,Renan Fogaça,654.908.137-84,Não
+2025-07-23 23:20:52,CS628192,I1185907,Camisa,M,180.0,Cartão de Crédito,Não,Compra Online,120.0,Não,Benício Rocha,578.431.902-79,Não
+2025-06-24 21:02:01,CS623921,I1178748,Camisa,G,180.0,Cartão de Crédito,Sim,Compra Online,120.0,Não,João Farias,158.264.097-11,Não
+2025-07-04 22:56:53,CS625067,I1180661,Camisa,G,180.0,Cartão de Crédito,Sim,Compra Online,120.0,Não,Dr. João Miguel Gomes,760.312.589-86,Não
+2025-07-05 12:30:04,CS625112,I1180842,Camisa,G,180.0,Pix,Sim,Compra Online,120.0,Não,Bruno Rezende,416.593.270-16,Não
+2025-07-06 10:41:40,CS625188,I1181001,Camisa,G,180.0,Cartão de Crédito,Sim,Compra Online,120.0,Não,Sr. Diego Nogueira,617.385.294-28,Não
+2025-07-07 20:41:00,CS625457,I1181507,Camisa,G,108.0,Dinheiro,Sim,Laura Tobita Norimbeni,108.0,Sim,Dr. Heitor Rodrigues,279.184.053-23,Sim
+2025-07-11 08:16:54,CS626095,I1182642,Camisa,G,108.0,Dinheiro,Sim,Laura Tobita Norimbeni,108.0,Sim,Gustavo Henrique Vieira,185.769.342-64,Sim
+2025-07-12 09:42:58,CS626284,I1182942,Camisa,G,180.0,Cartão de Crédito,Sim,Compra Online,120.0,Não,Sr. Cauã Cunha,015.264.937-99,Não
+2025-07-18 17:01:37,CS627463,I1184727,Camisa,G,180.0,Cartão de Crédito,Não,Compra Online,330.0,Não,Srta. Sofia da Luz,305.186.479-00,Não
+2025-07-23 18:15:51,CS628114,I1185777,Camisa,G,180.0,Pix,Não,Compra Online,120.0,Não,Cauê Cardoso,873.620.951-12,Não
+2025-06-25 15:56:29,CS624008,I1178889,Camisa,GG,108.0,Cartão de Crédito,Sim,Compra Online,108.0,Sim,Pietro Rezende,615.827.439-91,Sim
+2025-07-04 16:00:53,CS624991,I1180557,Camisa,GG,180.0,Cartão de Crédito,Não,Compra Online,120.0,Não,Sr. Enzo Silveira,236.578.914-55,Não
+2025-07-10 21:12:29,CS626051,I1182568,Camisa,GG,108.0,Dinheiro,Sim,Giovana Gomes Costa,297.0,Sim,Maria Alice Carvalho,206.849.513-98,Sim
+2025-07-12 16:07:12,CS626324,I1183023,Camisa,GG,180.0,Cartão de Crédito,Sim,Compra Online,190.0,Não,Vicente das Neves,614.802.795-01,Não
+2025-07-15 00:17:59,CS626751,I1183672,Camisa,GG,180.0,Cartão de Crédito,Não,Compra Online,120.0,Não,Sr. Isaac da Luz,516.283.947-73,Não
+2025-07-21 17:44:59,CS627820,I1185254,Camisa,GG,180.0,Cartão de Crédito,Sim,Compra Online,120.0,Não,Levi Silva,216.348.790-31,Não
+2025-07-22 14:56:53,CS627921,I1185431,Camisa,GG,108.0,Dinheiro,Sim,Laura Tobita Norimbeni,216.0,Sim,Kamilly Souza,428.315.697-37,Sim
+2025-07-23 11:20:32,CS628027,I1185641,Camisa,GG,108.0,Cartão de Crédito,Sim,Compra Online,108.0,Sim,Sra. Sophie Correia,450.981.723-14,Sim
+2025-07-23 17:14:26,CS628098,I1185755,Camisa,GG,180.0,Cartão de Crédito,Sim,Compra Online,120.0,Não,Henrique Dias,153.987.462-19,Não
+2025-07-24 11:09:00,CS628215,I1185938,Camisa,GG,108.0,Dinheiro,Sim,Giovana Gomes Costa,108.0,Sim,Pedro Costela,302.417.896-13,Sim
+2025-06-23 13:28:07,CS623755,I1178520,Camisa,EXG,108.0,Pix,Não,Compra Online,297.0,Sim,Enzo Santos,286.457.193-55,Sim
+2025-07-07 16:27:54,CS625410,I1181432,Camisa,EXG,180.0,Pix,Sim,Compra Online,120.0,Não,Luiza Melo,451.387.029-04,Não
+2025-07-22 19:24:56,CS627969,I1185523,Camisa,EXG,108.0,Cartão de Crédito,Sim,Compra Online,108.0,Sim,Juan Caldeira,348.759.201-05,Sim
+2025-06-23 21:30:19,CS623818,I1178604,Moletom,PP,250.0,Cartão de Crédito,Sim,Compra Online,210.0,Não,Srta. Sophie Rezende,245.817.039-05,Não
+2025-06-28 14:12:04,CS624205,I1179176,Moletom,PP,250.0,Cartão de Crédito,Sim,Compra Online,210.0,Não,Noah Campos,742.639.580-47,Não
+2025-06-28 14:23:03,CS624212,I1179185,Moletom,PP,189.0,Cartão de Crédito,Sim,Compra Online,189.0,Sim,Rodrigo Fogaça,463.952.107-34,Sim
+2025-07-02 18:07:22,CS624663,I1179888,Moletom,PP,250.0,Pix,Sim,Compra Online,210.0,Não,Isabelly Santos,179.284.350-04,Não
+2025-07-21 10:20:29,CS627754,I1185151,Moletom,PP,189.0,Cartão de Crédito,Sim,Compra Online,310.5,Sim,Enrico Dias,784.291.603-96,Sim
+2025-07-22 20:13:46,CS627979,I1185551,Moletom,PP,189.0,Cartão de Crédito,Não,Compra Online,252.0,Sim,Eloah Moraes,482.769.103-78,Sim
+2025-07-23 17:40:42,CS628103,I1185760,Moletom,PP,250.0,Cartão de Crédito,Sim,Compra Online,345.0,Não,Sr. Vicente Castro,625.870.193-03,Não
+2025-06-23 15:47:44,CS623776,I1178550,Moletom,P,189.0,Dinheiro,Sim,Laura Tobita Norimbeni,189.0,Sim,Francisco Duarte,746.123.589-37,Sim
+2025-06-27 11:25:11,CS624120,I1179051,Moletom,P,189.0,Pix,Sim,Compra Online,247.5,Sim,Yuri da Mota,350.691.742-07,Sim
+2025-07-01 01:02:20,CS624474,I1179603,Moletom,P,250.0,Pix,Sim,Compra Online,350.0,Não,Clara Gonçalves,918.753.042-23,Não
+2025-07-06 14:22:02,CS625220,I1181043,Moletom,P,250.0,Cartão de Crédito,Sim,Compra Online,275.0,Não,Murilo da Mata,429.635.807-38,Não
+2025-07-16 19:58:06,CS627217,I1184373,Moletom,P,189.0,Cartão de Crédito,Sim,Compra Online,297.0,Sim,Valentina Araújo,421.750.386-53,Sim
+2025-06-23 14:53:22,CS623770,I1178541,Moletom,M,189.0,Cartão de Crédito,Sim,Compra Online,189.0,Sim,Clarice Barbosa,586.204.913-42,Sim
+2025-06-23 16:58:32,CS623786,I1178562,Moletom,M,250.0,Cartão de Crédito,Sim,Compra Online,210.0,Não,Enzo Gabriel Fernandes,593.281.674-00,Não
+2025-06-23 20:35:56,CS623811,I1178594,Moletom,M,189.0,Dinheiro,Sim,Laura Tobita Norimbeni,247.5,Sim,Felipe Correia,790.621.583-40,Sim
+2025-06-23 21:35:22,CS623823,I1178611,Moletom,M,189.0,Cartão de Crédito,Sim,Compra Online,247.5,Sim,Luiz Felipe Cardoso,278.504.319-79,Sim
+2025-06-23 21:39:22,CS623824,I1178613,Moletom,M,189.0,Dinheiro,Sim,Laura Tobita Norimbeni,189.0,Sim,Heitor Teixeira,543.690.127-16,Sim
+2025-06-26 15:50:05,CS624076,I1178985,Moletom,M,250.0,Cartão de Crédito,Não,Compra Online,210.0,Não,Sr. Luigi Viana,927.461.083-13,Não
+2025-06-28 22:05:00,CS624256,I1179258,Moletom,M,189.0,Dinheiro,Sim,Laura Tobita Norimbeni,310.5,Sim,Paulo da Costa,428.360.159-42,Sim
+2025-07-03 13:53:54,CS624797,I1180072,Moletom,M,250.0,Pix,Sim,Compra Online,330.0,Não,Lorena Correia,940.368.152-70,Não
+2025-07-07 22:20:03,CS625481,I1181539,Moletom,M,189.0,Cartão de Crédito,Sim,Compra Online,247.5,Sim,Laura Duarte,876.241.053-90,Sim
+2025-07-07 22:54:57,CS625490,I1181550,Moletom,M,189.0,Dinheiro,Sim,Laura Tobita Norimbeni,189.0,Sim,Vitor Gabriel Gonçalves,196.304.725-70,Sim
+2025-07-10 18:55:35,CS626017,I1182516,Moletom,M,250.0,Cartão de Crédito,Não,Compra Online,210.0,Não,Lorenzo da Costa,071.248.963-04,Não
+2025-07-13 16:14:58,CS626444,I1183208,Moletom,M,250.0,Cartão de Crédito,Sim,Compra Online,210.0,Não,Leandro Porto,923.457.816-37,Não
+2025-07-13 20:34:16,CS626500,I1183284,Moletom,M,250.0,Cartão de Crédito,Sim,Compra Online,345.0,Não,Maria Eduarda Gomes,306.248.195-15,Não
+2025-07-13 22:16:31,CS626522,I1183326,Moletom,M,250.0,Pix,Sim,Compra Online,330.0,Não,Maria Cecília Pires,094.138.275-32,Não
+2025-07-14 16:55:45,CS626618,I1183462,Moletom,M,250.0,Cartão de Crédito,Não,Compra Online,275.0,Não,Sra. Vitória Correia,852.134.906-89,Não
+2025-07-15 17:11:42,CS626858,I1183820,Moletom,M,250.0,Cartão de Crédito,Sim,Compra Online,275.0,Não,Isabel Rocha,703.954.218-88,Não
+2025-07-15 18:56:24,CS626897,I1183887,Moletom,M,250.0,Cartão de Crédito,Sim,Compra Online,210.0,Não,Cecília Ramos,086.915.742-67,Não
+2025-07-16 15:40:49,CS627156,I1184271,Moletom,M,189.0,Pix,Não,Compra Online,252.0,Sim,Mariana das Neves,271.053.896-21,Sim
+2025-07-18 10:30:45,CS627418,I1184652,Moletom,M,250.0,Cartão de Crédito,Não,Compra Online,210.0,Não,Agatha Moura,082.157.469-85,Não
+2025-07-21 09:52:31,CS627747,I1185130,Moletom,M,250.0,Pix,Sim,Compra Online,210.0,Não,Cauã Ramos,486.573.201-26,Não
+2025-07-21 13:05:54,CS627785,I1185205,Moletom,M,250.0,Pix,Não,Compra Online,210.0,Não,Pedro Henrique Souza,370.528.691-95,Não
+2025-07-22 14:45:02,CS627919,I1185427,Moletom,M,250.0,Cartão de Crédito,Não,Compra Online,280.0,Não,Yuri Cunha,619.023.475-52,Não
+2025-07-22 18:48:16,CS627956,I1185501,Moletom,M,250.0,Cartão de Crédito,Sim,Compra Online,210.0,Não,Fernanda Alves,325.160.749-99,Não
+2025-07-23 15:31:59,CS628072,I1185706,Moletom,M,189.0,Dinheiro,Sim,Laura Tobita Norimbeni,189.0,Sim,Emanuelly Teixeira,059.623.784-74,Sim
+2025-07-23 16:19:00,CS628083,I1185732,Moletom,M,250.0,Pix,Sim,Compra Online,210.0,Não,Vitor Gabriel Carvalho,162.379.840-03,Não
+2025-07-23 18:10:09,CS628110,I1185771,Moletom,M,250.0,Cartão de Crédito,Não,Compra Online,280.0,Não,Maria Clara Cardoso,230.147.965-06,Não
+2025-07-23 18:12:12,CS628112,I1185774,Moletom,M,189.0,Cartão de Crédito,Sim,Compra Online,360.0,Sim,Sra. Alexia Vieira,614.730.529-80,Sim
+2025-07-23 18:27:28,CS628117,I1185782,Moletom,M,189.0,Pix,Sim,Compra Online,189.0,Sim,Kaique Gomes,176.594.203-99,Sim
+2025-07-23 22:48:49,CS628182,I1185885,Moletom,M,250.0,Cartão de Crédito,Sim,Compra Online,210.0,Não,Vitor Porto,759.102.846-49,Não
+2025-07-23 23:42:47,CS628197,I1185915,Moletom,M,189.0,Pix,Sim,Compra Online,189.0,Sim,Davi Silva,065.981.237-12,Sim
+2025-06-23 13:31:19,CS623756,I1178522,Moletom,G,250.0,Cartão de Crédito,Sim,Compra Online,345.0,Não,Manuela Castro,547.018.692-01,Não
+2025-06-23 14:29:39,CS623765,I1178535,Moletom,G,250.0,Cartão de Crédito,Não,Compra Online,210.0,Não,Dr. João Pedro Rodrigues,570.139.248-14,Não
+2025-06-23 14:37:10,CS623766,I1178536,Moletom,G,250.0,Cartão de Crédito,Sim,Compra Online,210.0,Não,Alexandre Fernandes,451.809.276-76,Não
+2025-06-23 15:43:32,CS623775,I1178548,Moletom,G,189.0,Dinheiro,Sim,Laura Tobita Norimbeni,360.0,Sim,Benjamin Freitas,637.250.194-52,Sim
+2025-06-24 01:26:35,CS623842,I1178643,Moletom,G,250.0,Cartão de Crédito,Sim,Compra Online,210.0,Não,Marcos Vinicius da Mata,103.284.765-44,Não
+2025-06-24 09:37:13,CS623848,I1178650,Moletom,G,250.0,Cartão de Crédito,Sim,Compra Online,210.0,Não,Alana Moura,594.086.732-47,Não
+2025-06-24 11:21:14,CS623860,I1178664,Moletom,G,250.0,Cartão de Crédito,Sim,Compra Online,210.0,Não,João Gabriel Cardoso,593.876.420-38,Não
+2025-06-30 21:55:54,CS624458,I1179577,Moletom,G,250.0,Dinheiro,Sim,Luiz Felipe Ferreira De França ,210.0,Não,Luana Jesus,859.602.341-06,Não
+2025-07-02 17:28:20,CS624657,I1179880,Moletom,G,189.0,Dinheiro,Sim,Laura Tobita Norimbeni,189.0,Sim,Rodrigo Monteiro,098.321.465-42,Sim
+2025-07-02 18:44:53,CS624671,I1179897,Moletom,G,189.0,Cartão de Crédito,Sim,Compra Online,310.5,Sim,Helena Santos,725.014.936-99,Sim
+2025-07-08 08:23:21,CS625512,I1181578,Moletom,G,250.0,Dinheiro,Sim,Gabriely Fernanda Garbim,210.0,Não,Henrique da Costa,479.183.652-91,Não
+2025-07-08 08:25:05,CS625513,I1181579,Moletom,G,250.0,Dinheiro,Sim,Gabriely Fernanda Garbim,210.0,Não,Pietro Peixoto,195.432.870-23,Não
+2025-07-08 18:17:37,CS625659,I1181830,Moletom,G,250.0,Dinheiro,Sim,Luiz Felipe Ferreira De França ,210.0,Não,Kamilly Monteiro,567.940.823-65,Não
+2025-07-12 18:09:06,CS626342,I1183052,Moletom,G,250.0,Dinheiro,Sim,Gabriely Fernanda Garbim,280.0,Não,Nathan Lima,845.136.972-37,Não
+2025-07-18 17:01:37,CS627463,I1184728,Moletom,G,250.0,Cartão de Crédito,Não,Compra Online,330.0,Não,Enzo Gabriel da Conceição,429.703.685-10,Não
+2025-07-20 17:17:02,CS627692,I1185045,Moletom,G,189.0,Pix,Sim,Compra Online,189.0,Sim,Enzo Moraes,467.381.052-07,Sim
+2025-07-22 18:30:23,CS627953,I1185496,Moletom,G,189.0,Pix,Não,Compra Online,310.5,Sim,Noah da Rosa,067.428.135-71,Sim
+2025-07-23 18:51:47,CS628129,I1185800,Moletom,G,189.0,Dinheiro,Sim,Laura Tobita Norimbeni,297.0,Sim,Kamilly Freitas,639.170.584-48,Sim
+2025-06-23 15:48:14,CS623777,I1178551,Moletom,GG,250.0,Dinheiro,Sim,Gabriely Fernanda Garbim,330.0,Não,Dra. Clara Nascimento,527.089.146-85,Não
+2025-06-23 16:45:09,CS623782,I1178558,Moletom,GG,250.0,Cartão de Crédito,Sim,Compra Online,210.0,Não,Julia Azevedo,345.189.670-20,Não
+2025-06-23 17:25:04,CS623788,I1178564,Moletom,GG,250.0,Cartão de Crédito,Sim,Compra Online,280.0,Não,Emilly Peixoto,139.407.825-05,Não
+2025-06-25 18:06:17,CS624023,I1178904,Moletom,GG,250.0,Cartão de Crédito,Sim,Compra Online,210.0,Não,Miguel Peixoto,508.971.634-00,Não
+2025-07-10 16:58:54,CS625984,I1182459,Moletom,GG,189.0,Pix,Não,Compra Online,189.0,Sim,Lívia Almeida,604.579.231-99,Sim
+2025-07-10 21:12:29,CS626051,I1182569,Moletom,GG,189.0,Dinheiro,Sim,Giovana Gomes Costa,297.0,Sim,Nicole Pinto,813.624.907-50,Sim
+2025-07-13 20:16:14,CS626494,I1183277,Moletom,GG,250.0,Cartão de Crédito,Não,Compra Online,210.0,Não,Pedro Lucas da Mata,129.670.345-25,Não
+2025-07-22 19:45:14,CS627974,I1185543,Moletom,GG,250.0,Cartão de Crédito,Sim,Compra Online,210.0,Não,Laís Cunha,318.926.057-59,Não
+2025-07-22 21:38:29,CS627995,I1185585,Moletom,GG,250.0,Cartão de Crédito,Sim,Compra Online,280.0,Não,Gustavo da Conceição,435.892.716-55,Não
+2025-07-23 14:16:07,CS628059,I1185683,Moletom,GG,189.0,Dinheiro,Sim,Laura Tobita Norimbeni,189.0,Sim,Nathan Campos,570.421.369-34,Sim
+2025-06-23 13:28:07,CS623755,I1178521,Moletom,XGG,189.0,Pix,Sim,Compra Online,297.0,Sim,Emanuelly Souza,368.471.059-84,Sim
+2025-06-30 15:58:58,CS624413,I1179498,Moletom,XGG,250.0,Pix,Não,Compra Online,210.0,Não,Luiz Henrique Lopes,948.012.673-78,Não
+2025-07-22 14:58:11,CS627923,I1185433,Moletom,XGG,189.0,Cartão de Crédito,Não,Compra Online,189.0,Sim,Isabella Fernandes,790.386.514-57,Sim
+2025-06-23 13:32:15,CS623758,I1178526,Cropped,PP,80.0,Cartão de Crédito,Sim,Compra Online,135.0,Não,Dr. Pedro Henrique Novaes,315.096.427-06,Não
+2025-06-23 15:16:47,CS623772,I1178544,Cropped,PP,80.0,Pix,Sim,Compra Online,65.0,Não,Sr. Davi Cavalcanti,643.791.205-70,Não
+2025-07-03 12:47:47,CS624768,I1180037,Cropped,PP,80.0,Pix,Não,Compra Online,65.0,Não,Laís Lima,639.208.157-77,Não
+2025-07-11 22:53:11,CS626273,I1182926,Cropped,PP,58.5,Cartão de Crédito,Sim,Compra Online,58.5,Sim,Mirella Azevedo,624.189.703-96,Sim
+2025-07-20 12:53:05,CS627677,I1185026,Cropped,PP,80.0,Dinheiro,Sim,Gabriely Fernanda Garbim,65.0,Não,Ana Laura Souza,841.962.530-24,Não
+2025-07-21 10:20:29,CS627754,I1185152,Cropped,PP,58.5,Cartão de Crédito,Sim,Compra Online,310.5,Sim,Amanda Moura,174.389.602-69,Sim
+2025-07-22 14:48:57,CS627920,I1185429,Cropped,PP,80.0,Cartão de Crédito,Sim,Compra Online,65.0,Não,Laura Rocha,195.078.423-14,Não
+2025-07-23 17:40:42,CS628103,I1185761,Cropped,PP,80.0,Cartão de Crédito,Sim,Compra Online,345.0,Não,Lucas Aragão,035.817.249-79,Não
+2025-07-23 20:56:25,CS628165,I1185854,Cropped,PP,80.0,Dinheiro,Sim,Gabriely Fernanda Garbim,200.0,Não,Evelyn Santos,509.387.612-77,Não
+2025-07-23 20:56:25,CS628165,I1185855,Cropped,PP,80.0,Dinheiro,Sim,Gabriely Fernanda Garbim,200.0,Não,Sr. Davi Fernandes,489.136.205-70,Não
+2025-07-23 23:34:00,CS628195,I1185913,Cropped,PP,80.0,Dinheiro,Sim,Luiz Felipe Ferreira De França ,65.0,Não,Maria Luiza Fernandes,970.542.316-43,Não
+2025-06-23 14:39:23,CS623767,I1178538,Cropped,P,80.0,Cartão de Crédito,Sim,Compra Online,135.0,Não,Ana Clara Jesus,196.374.802-69,Não
+2025-06-25 11:09:17,CS623974,I1178831,Cropped,P,58.5,Dinheiro,Sim,Laura Tobita Norimbeni,58.5,Sim,Murilo Almeida,798.364.052-83,Sim
+2025-06-27 11:25:11,CS624120,I1179052,Cropped,P,58.5,Pix,Sim,Compra Online,247.5,Sim,Juan Azevedo,843.602.157-62,Sim
+2025-06-28 19:09:10,CS624248,I1179246,Cropped,P,80.0,Pix,Sim,Compra Online,65.0,Não,Guilherme Campos,458.297.361-28,Não
+2025-07-01 00:01:19,CS624472,I1179598,Cropped,P,58.5,Dinheiro,Sim,Laura Tobita Norimbeni,58.5,Sim,Igor das Neves,058.192.763-02,Sim
+2025-07-02 21:28:58,CS624695,I1179937,Cropped,P,80.0,Dinheiro,Sim,Gabriely Fernanda Garbim,65.0,Não,Dr. Murilo Correia,293.508.714-32,Não
+2025-07-04 10:37:33,CS624947,I1180497,Cropped,P,80.0,Pix,Sim,Compra Online,65.0,Não,Davi Lucas Nunes,129.430.678-22,Não
+2025-07-05 22:19:48,CS625170,I1180935,Cropped,P,80.0,Dinheiro,Sim,Gabriely Fernanda Garbim,65.0,Não,Alexia Almeida,708.936.215-95,Não
+2025-07-05 22:21:14,CS625171,I1180936,Cropped,P,80.0,Dinheiro,Sim,Gabriely Fernanda Garbim,65.0,Não,Juan Fernandes,079.325.468-00,Não
+2025-07-13 20:34:16,CS626500,I1183286,Cropped,P,80.0,Cartão de Crédito,Sim,Compra Online,345.0,Não,Alexandre Novaes,910.246.583-33,Não
+2025-07-14 22:08:00,CS626721,I1183632,Cropped,P,80.0,Pix,Não,Compra Online,130.0,Não,Emilly Fogaça,693.214.750-52,Não
+2025-07-15 17:11:42,CS626858,I1183821,Cropped,P,80.0,Cartão de Crédito,Sim,Compra Online,275.0,Não,Dr. Danilo da Costa,823.071.594-79,Não
+2025-07-20 18:07:02,CS627696,I1185051,Cropped,P,80.0,Pix,Sim,Compra Online,65.0,Não,Sra. Maitê Nogueira,653.741.980-84,Não
+2025-07-22 14:57:46,CS627922,I1185432,Cropped,P,80.0,Cartão de Crédito,Sim,Compra Online,65.0,Não,Enrico Gonçalves,951.632.087-21,Não
+2025-07-22 15:27:48,CS627927,I1185444,Cropped,P,80.0,Pix,Não,Compra Online,135.0,Não,Dr. Cauê Jesus,531.248.796-19,Não
+2025-07-22 18:17:02,CS627950,I1185493,Cropped,P,80.0,Dinheiro,Sim,Gabriely Fernanda Garbim,65.0,Não,Dra. Yasmin Carvalho,486.219.305-60,Não
+2025-07-22 19:26:31,CS627971,I1185536,Cropped,P,58.5,Dinheiro,Sim,Laura Tobita Norimbeni,121.5,Sim,Diego Silveira,891.706.234-22,Sim
+2025-07-22 20:35:36,CS627984,I1185560,Cropped,P,80.0,Cartão de Crédito,Sim,Compra Online,65.0,Não,Valentina Barros,296.851.043-60,Não
+2025-07-23 16:40:48,CS628091,I1185744,Cropped,P,58.5,Dinheiro,Sim,Laura Tobita Norimbeni,229.5,Sim,João Fernandes,179.548.360-10,Sim
+2025-07-23 20:35:55,CS628161,I1185847,Cropped,P,58.5,Cartão de Crédito,Sim,Compra Online,121.5,Sim,Raul Araújo,951.346.728-73,Sim
+2025-07-23 20:48:38,CS628164,I1185853,Cropped,P,80.0,Pix,Sim,Compra Online,135.0,Não,Sr. João Lucas Monteiro,532.470.896-83,Não
+2025-07-23 21:37:43,CS628173,I1185869,Cropped,P,58.5,Dinheiro,Sim,Laura Tobita Norimbeni,58.5,Sim,Isadora Barbosa,472.806.395-00,Sim
+2025-07-23 23:01:30,CS628187,I1185897,Cropped,P,80.0,Dinheiro,Sim,Gabriely Fernanda Garbim,65.0,Não,Isabella Ribeiro,104.653.978-75,Não
+2025-06-23 13:25:39,CS623754,I1178519,Cropped,M,80.0,Pix,Sim,Compra Online,185.0,Não,Sr. Vinicius Porto,318.547.690-57,Não
+2025-06-23 13:31:19,CS623756,I1178523,Cropped,M,80.0,Cartão de Crédito,Sim,Compra Online,345.0,Não,Sr. Felipe Cunha,296.580.431-51,Não
+2025-06-23 13:51:29,CS623761,I1178530,Cropped,M,80.0,Cartão de Crédito,Não,Compra Online,135.0,Não,Marcos Vinicius Porto,972.168.530-59,Não
+2025-06-23 20:28:00,CS623808,I1178591,Cropped,M,58.5,Cartão de Crédito,Sim,Compra Online,58.5,Sim,Maysa Cardoso,049.682.157-11,Sim
+2025-06-23 20:35:56,CS623811,I1178595,Cropped,M,58.5,Dinheiro,Sim,Laura Tobita Norimbeni,247.5,Sim,Alana Duarte,209.418.765-94,Sim
+2025-06-28 22:05:00,CS624256,I1179259,Cropped,M,58.5,Dinheiro,Sim,Laura Tobita Norimbeni,310.5,Sim,Maria Lopes,408.795.621-02,Sim
+2025-07-02 18:44:53,CS624671,I1179899,Cropped,M,58.5,Cartão de Crédito,Sim,Compra Online,310.5,Sim,João Vitor Araújo,807.451.269-01,Sim
+2025-07-03 13:03:39,CS624778,I1180049,Cropped,M,80.0,Cartão de Crédito,Sim,Compra Online,65.0,Não,Pedro Miguel Freitas,687.059.241-11,Não
+2025-07-06 14:22:02,CS625220,I1181044,Cropped,M,80.0,Cartão de Crédito,Sim,Compra Online,275.0,Não,Mariana da Conceição,524.768.130-44,Não
+2025-07-06 21:26:36,CS625266,I1181118,Cropped,M,80.0,Cartão de Crédito,Sim,Compra Online,135.0,Não,Natália da Paz,630.148.297-22,Não
+2025-07-07 22:20:03,CS625481,I1181540,Cropped,M,58.5,Cartão de Crédito,Sim,Compra Online,247.5,Sim,Maria Luiza Oliveira,651.498.073-20,Sim
+2025-07-08 14:06:23,CS625575,I1181690,Cropped,M,80.0,Cartão de Crédito,Sim,Compra Online,65.0,Não,Bárbara Martins,561.029.348-06,Não
+2025-07-10 11:00:26,CS625904,I1182341,Cropped,M,58.5,Cartão de Crédito,Sim,Compra Online,58.5,Sim,Lucas Gabriel Dias,973.805.642-00,Sim
+2025-07-14 16:55:45,CS626618,I1183463,Cropped,M,80.0,Cartão de Crédito,Não,Compra Online,275.0,Não,Samuel Cardoso,289.635.710-68,Não
+2025-07-14 22:08:00,CS626721,I1183631,Cropped,M,80.0,Pix,Não,Compra Online,130.0,Não,Nicolas da Mata,678.439.201-96,Não
+2025-07-17 19:46:51,CS627354,I1184576,Cropped,M,58.5,Pix,Sim,Compra Online,58.5,Sim,Laís Pinto,620.753.498-00,Sim
+2025-07-21 20:41:34,CS627844,I1185291,Cropped,M,58.5,Cartão de Crédito,Sim,Compra Online,121.5,Sim,Nina Moreira,495.306.718-57,Sim
+2025-07-22 21:50:55,CS627996,I1185587,Cropped,M,80.0,Pix,Não,Compra Online,135.0,Não,Enrico Lima,139.056.782-68,Não
+2025-07-23 09:30:49,CS628016,I1185628,Cropped,M,80.0,Cartão de Crédito,Sim,Compra Online,135.0,Não,Luigi Fogaça,508.724.193-04,Não
+2025-07-23 11:32:12,CS628029,I1185644,Cropped,M,58.5,Cartão de Crédito,Sim,Compra Online,121.5,Sim,Alícia Costela,308.942.751-60,Sim
+2025-07-23 15:14:54,CS628068,I1185700,Cropped,M,80.0,Dinheiro,Sim,Gabriely Fernanda Garbim,65.0,Não,Amanda Ferreira,628.735.041-53,Não
+2025-07-23 21:00:55,CS628166,I1185858,Cropped,M,58.5,Dinheiro,Sim,Laura Tobita Norimbeni,229.5,Sim,Sr. Marcelo Castro,308.726.149-13,Sim
+2025-06-23 18:36:43,CS623794,I1178572,Cropped,G,80.0,Pix,Sim,Compra Online,65.0,Não,Sr. Isaac Araújo,214.679.035-07,Não
+2025-07-07 15:47:19,CS625401,I1181417,Cropped,G,80.0,Pix,Não,Compra Online,65.0,Não,Vitor Freitas,963.428.105-24,Não
+2025-07-07 21:34:43,CS625463,I1181513,Cropped,G,58.5,Dinheiro,Sim,Laura Tobita Norimbeni,121.5,Sim,Beatriz Costa,856.237.401-62,Sim
+2025-07-12 12:08:44,CS626291,I1182957,Cropped,G,58.5,Dinheiro,Sim,Laura Tobita Norimbeni,58.5,Sim,Marcos Vinicius Silveira,295.078.163-21,Sim
+2025-07-15 08:42:12,CS626759,I1183686,Cropped,G,58.5,Dinheiro,Sim,Gabriely Fernanda Garbim,58.5,Sim,Esther da Conceição,659.134.072-61,Sim
+2025-07-22 16:36:58,CS627939,I1185471,Cropped,G,80.0,Cartão de Crédito,Sim,Compra Online,65.0,Não,Luiz Fernando da Luz,613.274.589-00,Não
+2025-07-22 18:30:23,CS627953,I1185497,Cropped,G,58.5,Pix,Não,Compra Online,310.5,Sim,Pietro Cavalcanti,863.207.195-59,Sim
+2025-07-23 14:35:12,CS628062,I1185691,Cropped,G,80.0,Pix,Sim,Compra Online,135.0,Não,João Vitor Caldeira,690.134.528-33,Não
+2025-06-23 13:58:56,CS623762,I1178532,Cropped,GG,80.0,Pix,Sim,Compra Online,65.0,Não,Sr. Davi Luiz Pires,193.740.628-87,Não
+2025-06-23 21:35:22,CS623823,I1178612,Cropped,GG,58.5,Cartão de Crédito,Sim,Compra Online,247.5,Sim,Marina Santos,670.158.239-77,Sim
+2025-07-22 14:41:01,CS627916,I1185420,Cropped,EXG,80.0,Cartão de Crédito,Sim,Compra Online,135.0,Não,Bruna Cardoso,180.546.397-75,Não
+2025-06-23 15:43:32,CS623775,I1178549,Short,M,63.0,Dinheiro,Sim,Laura Tobita Norimbeni,360.0,Sim,Leonardo Costela,418.920.537-05,Sim
+2025-07-13 20:34:16,CS626500,I1183285,Short,M,90.0,Cartão de Crédito,Sim,Compra Online,345.0,Não,Enzo Viana,359.481.702-41,Não
+2025-07-23 16:04:37,CS628079,I1185724,Short,M,63.0,Cartão de Crédito,Sim,Compra Online,171.0,Sim,Alícia Caldeira,648.279.150-67,Sim
+2025-06-23 13:32:15,CS623758,I1178527,Saia,PP,90.0,Cartão de Crédito,Sim,Compra Online,135.0,Não,Melissa Aragão,091.287.563-12,Não
+2025-06-23 13:37:19,CS623759,I1178528,Saia,PP,90.0,Pix,Não,Compra Online,70.0,Não,Ian Araújo,489.170.265-67,Não
+2025-06-30 15:37:50,CS624408,I1179489,Saia,PP,63.0,Pix,Sim,Compra Online,171.0,Sim,Ana Lívia Pereira,065.987.314-10,Sim
+2025-07-21 10:20:29,CS627754,I1185153,Saia,PP,63.0,Cartão de Crédito,Sim,Compra Online,310.5,Sim,Pietra Vieira,701.965.843-10,Sim
+2025-07-23 16:40:48,CS628091,I1185743,Saia,PP,63.0,Dinheiro,Sim,Laura Tobita Norimbeni,229.5,Sim,Julia Silveira,185.263.749-82,Sim
+2025-07-23 17:40:42,CS628103,I1185762,Saia,PP,90.0,Cartão de Crédito,Sim,Compra Online,345.0,Não,Bruno Correia,865.170.439-93,Não
+2025-07-23 20:29:24,CS628157,I1185842,Saia,PP,63.0,Cartão de Crédito,Sim,Compra Online,63.0,Sim,Sr. Felipe Peixoto,139.254.708-32,Sim
+2025-07-08 14:56:30,CS625602,I1181740,Saia,P,90.0,Dinheiro,Sim,Gabriely Fernanda Garbim,70.0,Não,Sra. Lorena Gonçalves,205.341.869-98,Não
+2025-07-08 14:57:20,CS625603,I1181741,Saia,P,90.0,Dinheiro,Sim,Gabriely Fernanda Garbim,70.0,Não,Luiz Otávio Teixeira,512.703.498-05,Não
+2025-07-12 16:07:12,CS626324,I1183022,Saia,P,90.0,Cartão de Crédito,Sim,Compra Online,190.0,Não,Dra. Letícia Campos,351.894.076-75,Não
+2025-07-14 20:12:44,CS626687,I1183580,Saia,P,90.0,Pix,Não,Compra Online,70.0,Não,Dra. Valentina Ramos,952.783.146-64,Não
+2025-07-19 22:03:04,CS627661,I1184992,Saia,P,90.0,Dinheiro,Sim,Gabriely Fernanda Garbim,70.0,Não,Sofia Costa,305.187.926-68,Não
+2025-07-22 20:13:46,CS627979,I1185552,Saia,P,63.0,Cartão de Crédito,Não,Compra Online,252.0,Sim,Rafael Cardoso,657.831.024-07,Sim
+2025-07-22 21:29:19,CS627992,I1185574,Saia,P,90.0,Dinheiro,Sim,Gabriely Fernanda Garbim,70.0,Não,Maria Vitória Cunha,872.619.430-96,Não
+2025-07-23 09:30:49,CS628016,I1185627,Saia,P,90.0,Cartão de Crédito,Sim,Compra Online,135.0,Não,Maria Cecília Nunes,160.873.952-02,Não
+2025-07-23 20:35:55,CS628161,I1185848,Saia,P,63.0,Cartão de Crédito,Sim,Compra Online,121.5,Sim,Benício Nunes,936.524.701-25,Sim
+2025-07-23 20:56:25,CS628165,I1185856,Saia,P,90.0,Dinheiro,Sim,Gabriely Fernanda Garbim,200.0,Não,Isaac Oliveira,981.203.546-05,Não
+2025-06-23 13:51:29,CS623761,I1178531,Saia,M,90.0,Cartão de Crédito,Não,Compra Online,135.0,Não,Bruna Correia,582.016.934-42,Não
+2025-06-24 11:23:36,CS623861,I1178665,Saia,M,90.0,Cartão de Crédito,Sim,Compra Online,70.0,Não,Ana Sophia Lopes,297.410.635-80,Não
+2025-06-30 09:23:17,CS624365,I1179430,Saia,M,90.0,Cartão de Crédito,Sim,Compra Online,70.0,Não,Melissa Sales,410.698.723-69,Não
+2025-07-01 01:02:20,CS624474,I1179601,Saia,M,90.0,Pix,Não,Compra Online,350.0,Não,Ana Sophia Rezende,802.671.534-90,Não
+2025-07-06 21:26:36,CS625266,I1181117,Saia,M,90.0,Cartão de Crédito,Não,Compra Online,135.0,Não,Dr. Gustavo Henrique Porto,379.615.824-28,Não
+2025-07-07 21:34:43,CS625463,I1181514,Saia,M,63.0,Dinheiro,Sim,Laura Tobita Norimbeni,121.5,Sim,Ana Sophia Santos,489.520.376-00,Sim
+2025-07-08 09:33:49,CS625528,I1181616,Saia,M,90.0,Cartão de Crédito,Sim,Compra Online,70.0,Não,Srta. Mariana da Rocha,793.158.642-55,Não
+2025-07-22 15:27:48,CS627927,I1185445,Saia,M,90.0,Pix,Não,Compra Online,135.0,Não,Sra. Isabel Cavalcanti,396.405.271-06,Não
+2025-07-22 15:29:58,CS627928,I1185447,Saia,M,63.0,Cartão de Crédito,Sim,Compra Online,171.0,Sim,Maria Eduarda Cardoso,609.523.147-70,Sim
+2025-07-22 19:26:31,CS627971,I1185537,Saia,M,63.0,Dinheiro,Sim,Laura Tobita Norimbeni,121.5,Sim,Vicente Pereira,624.539.187-37,Sim
+2025-07-22 21:50:55,CS627996,I1185588,Saia,M,90.0,Pix,Sim,Compra Online,135.0,Não,Davi Lucca Nunes,054.981.327-60,Não
+2025-07-23 11:32:12,CS628029,I1185645,Saia,M,63.0,Cartão de Crédito,Sim,Compra Online,121.5,Sim,Dra. Cecília Lopes,528.730.614-80,Sim
+2025-07-23 18:10:09,CS628110,I1185770,Saia,M,90.0,Cartão de Crédito,Não,Compra Online,280.0,Não,Igor Pires,529.634.871-00,Não
+2025-07-23 18:12:12,CS628112,I1185775,Saia,M,63.0,Cartão de Crédito,Sim,Compra Online,360.0,Sim,Lorena Rocha,356.418.709-00,Sim
+2025-07-23 20:48:38,CS628164,I1185852,Saia,M,90.0,Pix,Sim,Compra Online,135.0,Não,Gabriela Alves,230.986.741-13,Não
+2025-07-23 23:01:09,CS628185,I1185895,Saia,M,63.0,Cartão de Crédito,Sim,Compra Online,171.0,Sim,Emanuel Moura,476.315.820-17,Sim
+2025-06-23 13:31:19,CS623756,I1178524,Saia,G,90.0,Cartão de Crédito,Sim,Compra Online,345.0,Não,João Lucas Cardoso,894.516.327-19,Não
+2025-06-23 14:39:23,CS623767,I1178537,Saia,G,90.0,Cartão de Crédito,Sim,Compra Online,135.0,Não,Pedro Miguel Cardoso,827.153.960-40,Não
+2025-06-23 17:25:04,CS623788,I1178565,Saia,G,90.0,Cartão de Crédito,Sim,Compra Online,280.0,Não,Sr. Emanuel da Rocha,056.293.178-30,Não
+2025-06-28 22:05:00,CS624256,I1179260,Saia,G,63.0,Dinheiro,Sim,Laura Tobita Norimbeni,310.5,Sim,Breno Moura,135.820.467-53,Sim
+2025-07-01 01:02:20,CS624474,I1179602,Saia,G,90.0,Pix,Não,Compra Online,350.0,Não,Vitor Gabriel Peixoto,842.690.175-11,Não
+2025-07-02 21:16:00,CS624690,I1179930,Saia,G,90.0,PicPay,Sim,Gabriely Fernanda Garbim,70.0,Não,Larissa Souza,415.789.032-97,Não
+2025-07-02 21:17:56,CS624691,I1179931,Saia,G,90.0,PicPay,Sim,Gabriely Fernanda Garbim,70.0,Não,Dra. Caroline Araújo,918.527.403-88,Não
+2025-07-05 13:48:45,CS625119,I1180851,Saia,G,63.0,Dinheiro,Sim,Laura Tobita Norimbeni,63.0,Sim,Sr. Calebe Cavalcanti,937.042.685-00,Sim
+2025-07-12 18:09:06,CS626342,I1183053,Saia,G,90.0,Dinheiro,Sim,Gabriely Fernanda Garbim,280.0,Não,Fernando Pires,471.059.862-20,Não
+2025-07-16 15:40:49,CS627156,I1184272,Saia,G,63.0,Pix,Não,Compra Online,252.0,Sim,Sarah da Cunha,516.073.842-80,Sim
+2025-07-21 20:41:34,CS627844,I1185292,Saia,G,63.0,Cartão de Crédito,Sim,Compra Online,121.5,Sim,Daniela Castro,532.614.807-26,Sim
+2025-07-22 14:45:02,CS627919,I1185428,Saia,G,90.0,Cartão de Crédito,Não,Compra Online,280.0,Não,Luiz Otávio Silva,289.567.130-30,Não
+2025-07-22 18:30:23,CS627953,I1185498,Saia,G,63.0,Pix,Não,Compra Online,310.5,Sim,Alexia Almeida,792.501.683-30,Sim
+2025-07-23 14:35:12,CS628062,I1185690,Saia,G,90.0,Pix,Sim,Compra Online,135.0,Não,Dr. Felipe das Neves,704.682.591-20,Não
+2025-07-23 21:00:55,CS628166,I1185857,Saia,G,63.0,Dinheiro,Sim,Laura Tobita Norimbeni,229.5,Sim,Manuela Monteiro,261.457.809-67,Sim
+2025-07-02 18:44:53,CS624671,I1179898,Saia,GG,63.0,Cartão de Crédito,Sim,Compra Online,310.5,Sim,Daniela Ramos,327.058.469-56,Sim
+2025-07-22 14:41:01,CS627916,I1185421,Saia,GG,90.0,Cartão de Crédito,Sim,Compra Online,135.0,Não,Dr. Pietro Silveira,917.063.425-43,Não
+2025-07-22 21:38:29,CS627995,I1185586,Saia,GG,90.0,Cartão de Crédito,Sim,Compra Online,280.0,Não,Sra. Alícia Moura,895.730.214-04,Não
+2025-07-23 20:09:04,CS628153,I1185838,Saia,XGG,63.0,Dinheiro,Sim,Giovana Gomes Costa,63.0,Sim,Dr. Kevin Teixeira,953.486.270-38,Sim
+2025-07-23 20:09:07,CS628154,I1185839,Saia,XGG,63.0,Pix,Sim,Compra Online,63.0,Sim,Dr. Luiz Felipe Rodrigues,749.381.520-88,Sim
